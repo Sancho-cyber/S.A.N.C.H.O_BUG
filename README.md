@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+VIPPER_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 🌟" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+S.A.N.C.H.O_BUG;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 🌟" alt="Typing SVG" />
   </a>
 </p>
 
@@ -123,3 +123,6 @@ jobs:
     - name: Save state (Optional)
       run: |
         ./save_state.sh
+
+
+https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C
